@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with UI 
 - 📫 How to reach me: gowthamkishoreindukuri@gmail.com
 - 😄 Pronouns: He/him/bro
-
+![](https://komarev.com/ghpvc/?username=igkishore)
 <!--
 **igkishore/igkishore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
