@@ -1,7 +1,7 @@
 ### Hi ! 👋 Gowtham Here!!
 
 
-[![Gowtham's github stats](https://github-readme-stats.vercel.app/api?username=gowtham81)](https://github.com/gowtham81/github-readme-stats)
+[![Gowtham's github stats](https://github-readme-stats.vercel.app/api?username=igkishore)](https://github.com/igkishore/github-readme-stats)
 
 
 - 🔭 I’m currently working on web_development and CP
